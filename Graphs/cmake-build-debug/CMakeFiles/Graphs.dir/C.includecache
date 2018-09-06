@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/madhusudhan/MyCoding/ProblemSolving/Graphs/graphUtils.c
+stdlib.h
+-
+stdio.h
+-
+
+/Users/madhusudhan/MyCoding/ProblemSolving/Graphs/graphUtils.h
+
+/Users/madhusudhan/MyCoding/ProblemSolving/Graphs/main.c
+stdio.h
+-
+stdlib.h
+-
+graphUtils.h
+/Users/madhusudhan/MyCoding/ProblemSolving/Graphs/graphUtils.h
+
