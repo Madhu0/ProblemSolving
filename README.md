@@ -1,0 +1,2 @@
+# ProblemSolving
+This is a list of problems solved, whenever i get time and i feel like doing so. Most of the files have a Problem Link comment where you can find the problem statement.If it don't, then just google the file name and you'll find the problem statement. In this repo you may find some folders which are create by cLion. You'll find a .c file in these folders where the solution will be available
